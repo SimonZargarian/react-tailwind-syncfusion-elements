@@ -20,7 +20,7 @@ const Doughnut = ({ id, data, legendVisiblity, height }) => {
           name="Sale" 
           dataSource={data} 
           xName="x" 
-          yName="y" .
+          yName="y" 
           innerRadius="40%" 
           startAngle={0} 
           endAngle={360} 
